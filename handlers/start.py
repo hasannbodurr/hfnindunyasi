@@ -52,19 +52,19 @@ async def start_(client: Client, message: Message):
                          "📚 komutlar", callback_data="cbcmds"
                     ),
                     InlineKeyboardButton(
-                        "💝 İletişim", url=f"https://t.me/{OWNER_NAME}")
+                        "💝 İletişim", url=f"https://t.me/hfnindunyasi")
                 ],[
                     InlineKeyboardButton(
-                        "👥 Official Group", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "👥 Official Group", url=f"https://t.me/hfnindunyasii"
                     ),
                     InlineKeyboardButton(
-                        "📣 Official Channel", url=f"https://t.me/{UPDATES_CHANNEL}")
+                        "📣 Official Channel", url=f"https://t.me/hfnindunyasiii")
                 ],[
                     InlineKeyboardButton(
-                        "🌐Tag ve DC oyunu ", url="https://t.me/{GROUP_SUPPORT")
+                        "🌐 GÜZELLİK ", url="https://t.me/robustdemon")
                 ],[
                     InlineKeyboardButton(
-                        "🧪 Grubunuza özel bot yapmak için 🧪", url="https://t.me/Baykaoss"
+                        "🧪 Grubunuza özel bot yapmak için 🧪", url="https://t.me/hfnindunyasi"
                     )
                 ]
             ]
@@ -84,10 +84,10 @@ async def start(client: Client, message: Message):
             [
                 [
                     InlineKeyboardButton(
-                        "✨ Group", url=f"https://t.me/{GROUP_SUPPORT}"
+                        "✨ Group", url=f"https://t.me/hfnindunyasii"
                     ),
                     InlineKeyboardButton(
-                        "📣 Channel", url=f"https://t.me/{UPDATES_CHANNEL}"
+                        "📣 Channel", url=f"https://t.me/hfnindunyasiii"
                     )
                 ]
             ]
